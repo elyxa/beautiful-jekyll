@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://username.github.io"
-baseurl: ""
+baseurl: "hello"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "https://github.com/sharbatc/ada2017hw/raw/master/project/mri.gif"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
